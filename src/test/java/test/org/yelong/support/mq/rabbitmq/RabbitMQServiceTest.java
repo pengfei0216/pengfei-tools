@@ -3,7 +3,7 @@ package test.org.yelong.support.mq.rabbitmq;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
-import org.yelong.support.mq.rabbitmq.RabbitMQUtils;
+import org.yelong.amqp.rabbitmq.RabbitMQUtils;
 
 public class RabbitMQServiceTest {
 

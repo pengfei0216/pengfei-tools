@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 import org.junit.jupiter.api.Test;
-import org.yelong.support.mq.rabbitmq.RabbitMQUtils;
+import org.yelong.amqp.rabbitmq.RabbitMQUtils;
 
 import com.rabbitmq.client.Connection;
 

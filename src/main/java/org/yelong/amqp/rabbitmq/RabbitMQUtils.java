@@ -1,11 +1,11 @@
-package org.yelong.support.mq.rabbitmq;
+package org.yelong.amqp.rabbitmq;
 
 import java.io.IOException;
 import java.util.UUID;
 import java.util.concurrent.TimeoutException;
 
-import org.yelong.support.mq.rabbitmq.consumer.delivery.DeliveryHandleConsumer;
-import org.yelong.support.mq.rabbitmq.consumer.delivery.DeliveryHandler;
+import org.yelong.amqp.rabbitmq.consumer.delivery.DeliveryHandleConsumer;
+import org.yelong.amqp.rabbitmq.consumer.delivery.DeliveryHandler;
 
 import com.rabbitmq.client.AMQP.BasicProperties;
 import com.rabbitmq.client.Channel;

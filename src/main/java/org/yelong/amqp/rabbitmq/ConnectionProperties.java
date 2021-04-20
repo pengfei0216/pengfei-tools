@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.yelong.support.mq.rabbitmq;
+package org.yelong.amqp.rabbitmq;
 
 /**
  * rabbit MQ连接配置

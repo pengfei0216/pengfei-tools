@@ -1,4 +1,4 @@
-package org.yelong.support.mq.rabbitmq.consumer.delivery;
+package org.yelong.amqp.rabbitmq.consumer.delivery;
 
 import java.io.IOException;
 
